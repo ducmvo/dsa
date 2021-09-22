@@ -1,0 +1,7 @@
+## Problem Solving
+---
+1. Understand the Problem
+2. Explore Concrete Examples
+3. Break It Down
+4. Solve/Simplify
+5. Look Back and Refactor
